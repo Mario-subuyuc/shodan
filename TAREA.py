@@ -6,11 +6,11 @@ from collections import defaultdict
 # =========================
 # recordar instalar la librería shodan: pip install shodan
 # =========================
-API_KEY = "VhQPgB0RKHN3SfHwyz5JxFZI9V0MZBFq"  # tu API Key de Shodan
-CARNET = "1990-21-1428"  # <-- Cambia por tu número de carnet real
-NOMBRE = "Mario Laureano Subuyuc Toma"  # <-- Cambia por tu nombre real
-CURSO = "Seguridad de sistemas"  # <-- Ajusta al curso real
-SECCION = "B"  # <-- Cambia a tu sección
+API_KEY = "VhQPgB0RKHN3SfHwyz5JxFZI9V0MZBFq"  # API Key de Shodan
+CARNET = "1990-21-1428"  # 
+NOMBRE = "Mario Laureano Subuyuc Toma"  # 
+CURSO = "Seguridad de sistemas"  # 
+SECCION = "B"  # 
 # =========================
 
 # Inicializar API
